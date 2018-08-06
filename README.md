@@ -1,7 +1,7 @@
 # MSP430-GUI-Composer
 A short example on how to use the GUI Composer for the MSP430 Launchpad
 
-<img src="logo.jpg" width="80%" height="80%" />
+<img src="logo.jpg" width="40%" height="40%" />
 
 Please follow the complete guide here: 
 
