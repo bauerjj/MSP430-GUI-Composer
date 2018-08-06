@@ -1,7 +1,7 @@
 # MSP430-GUI-Composer
-A short example on how to use the GUI Composer for the MSP430 Launchpad
+A short example on how to use the GUI Composer for the MSP430 Launchpad. A GUI is configured that plots the data received on a COM port at 9600 baud. 
 
-<img src="logo.jpg" width="40%" height="40%" />
+<img src="logo.jpg" width="60%" height="60%" />
 
 Please follow the complete guide here: 
 
