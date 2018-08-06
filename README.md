@@ -1,5 +1,5 @@
 # MSP430-GUI-Composer
-A short example on how to use the GUI Composer for the MSP430 Launchpad. A GUI is configured that plots the data received on a COM port at 9600 baud. 
+A short example on how to use the GUI Composer for the MSP430 Launchpad. 
 
 <img src="logo.jpg" width="60%" height="60%" />
 
@@ -7,9 +7,12 @@ Please follow the complete guide here:
 
 http://mcuhq.com/11/msp430-launchpad-gui-composer-example
 
+## Introduction
+A GUI is configured that plots the data received on a COM port at 9600 baud. The hardware UART on the MSP430 is used in conjunction with two "UART monitor" files that the GUI Composer interacts between as an API. The end result is a distributable standalone app (windows only however). 
+
 ## Required Tools
 
-1. Code Composer Studio (CCS)
+1. Code Composer Studio (CCS) v5.3+
 2. MSP430 Launchpad
 3. USB mini cable to connect between your computer and MSP430 Launchpad
 
